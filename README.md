@@ -4,9 +4,9 @@
 <img src="https://capsule-render.vercel.app/render?type=slice&color=000000&height=200&section=header&text=REAL%20CELEBRITY&fontSize=70&animation=fadeIn&fontAlignY=35&desc=bipolarfedd&descAlignY=60&descSize=20" width="100%" />
 
 # 𝕽𝖊𝖆𝖑 𝕮𝖊𝖑𝖊𝖇𝖗𝖎𝖙𝖞
-` 𝗯𝗶𝗽𝗼𝗹𝗮𝗿𝗳𝗲𝗱𝗱 ` 🌑
+` 𝗯𝗶𝗽𝗼𝗹𝗮𝗿𝗳𝗲𝗱𝗱 `
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=%F0%9F%91%BE+Hello!+I%E2%80%99m+Syntax;%F0%9F%94%A7+Experienced+Python+Developer;%F0%9F%A9%B8+I+build+self-bots+and+toolz;dm+me+on+tele+for+any+inquires)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=%F0%9F%91%BE+Hello!+I%E2%80%99m+Keen;%F0%9F%94%A7+Experienced+Python+Developer;%F0%9F%A9%B8+I+build+self-bots+and+toolz;dm+me+on+tele+for+any+inquires)](https://git.io/typing-svg)
 
 ---
 
