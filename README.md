@@ -41,8 +41,8 @@
 
 ### 📊 System Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotYourSyntax&show_icons=true&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NotYourSyntax&layout=compact&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bipolarfedd&show_icons=true&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bipolarfedd&layout=compact&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 <br clear="both">
