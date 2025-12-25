@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://cdn.discordapp.com/attachments/1452452321731809333/1453711910762451004/eda7a0478e1919234a453ac6c5166568.gif?ex=694e7238&is=694d20b8&hm=2ed0e02e2bc0f7a07362a10b7bb6f3598ea1e0d8b97201eadcf1df8b749705ea&" width="100%" />
+<img src="https://raw.githubusercontent.com/bipolarfedd/bipolarfedd/main/your-file-name.gif" width="100%" />
 
 # 𝕽𝖊𝖆𝖑 𝕮𝖊𝖑𝖊𝖇𝖗𝖎𝖙𝖞
 ` 𝗯𝗶𝗽𝗼𝗹𝗮𝗿𝗳𝗲𝗱𝗱 `
