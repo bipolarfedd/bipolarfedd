@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- HEADER BANNER MATCHING DISCORD -->
+<!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/render?type=slice&color=000000&height=200&section=header&text=REAL%20CELEBRITY&fontSize=70&animation=fadeIn&fontAlignY=35&desc=bipolarfedd&descAlignY=60&descSize=20" width="100%" />
 
 # 𝕽𝖊𝖆𝖑 𝕮𝖊𝖑𝖊𝖇𝖗𝖎𝖙𝖞
 ` 𝗯𝗶𝗽𝗼𝗹𝗮𝗿𝗳𝗲𝗱𝗱 `
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=%F0%9F%91%BE+Hello!+I%E2%80%99m+Keen;%F0%9F%94%A7+Experienced+Python+Developer;%F0%9F%A9%B8+I+build+self-bots+and+toolz;dm+me+on+tele+for+any+inquires)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=%F0%9F%91%BE+Hello!+I%E2%80%99m+Keen;%F0%9F%94%A7+Experienced+Python+%26+Go+Developer;%F0%9F%A9%B8+I+build+self-bots+and+toolz;dm+me+on+tele+for+any+inquires)](https://git.io/typing-svg)
 
 ---
 
-<!-- DISCORD LIVE STATUS (LANYARD) -->
-<a href="https://discord.com/users/1448453981574660197">
-  <img src="https://lanyard.cnrad.dev/api/1448453981574660197?theme=dark&bg=000000&animated=true" alt="Discord Presence" />
+<!-- DISCORD LIVE STATUS (Requires joining Lanyard Discord) -->
+<a href="https://discord.com/users/1291467764174684222">
+  <img src="https://lanyard.cnrad.dev/api/1291467764174684222?theme=dark&bg=000000&animated=true" alt="Discord Presence" />
 </a>
 
 <br>
@@ -27,19 +27,29 @@
 
 ---
 
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,go,js,html,css&theme=dark" />
+</p>
+
+**Currently Learning:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
+</p>
+
+---
+
 ### 📊 System Analytics
 <div align="center">
-  <!-- Fixed Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bipolarfedd&show_icons=true&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bipolarfedd&layout=compact&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NotYourSyntax&show_icons=true&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NotYourSyntax&layout=compact&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
-<img align="right" height="120" src="https://media.discordapp.net/attachments/1330525315084062822/1332694510140133407/lylies.gif?ex=67a5593b&is=67a407bb&hm=aa4ce353bc3578918c6ab9064add8e101990f7c5dda86cc7f05986fcf3656520&=" />
 
 <br clear="both">
 
 ---
 
 ### 🐍 Contribution Activity
-<!-- Fixed Snake (See Step 2 below to make this work) -->
-<img src="https://raw.githubusercontent.com/bipolarfedd/bipolarfedd/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/NotYourSyntax/NotYourSyntax/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+
+</div>
