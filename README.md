@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER MATCHING DISCORD -->
 <img src="https://capsule-render.vercel.app/render?type=slice&color=000000&height=200&section=header&text=REAL%20CELEBRITY&fontSize=70&animation=fadeIn&fontAlignY=35&desc=bipolarfedd&descAlignY=60&descSize=20" width="100%" />
 
 # 𝕽𝖊𝖆𝖑 𝕮𝖊𝖑𝖊𝖇𝖗𝖎𝖙𝖞
@@ -11,8 +11,8 @@
 ---
 
 <!-- DISCORD LIVE STATUS (LANYARD) -->
-<a href="https://discord.com/users/1448453981574660197">
-  <img src="https://lanyard.cnrad.dev/api/1448453981574660197?theme=dark&bg=000000&animated=true" alt="Discord Presence" />
+<a href="https://discord.com/users/1291467764174684222">
+  <img src="https://lanyard.cnrad.dev/api/1291467764174684222?theme=dark&bg=000000&animated=true" alt="Discord Presence" />
 </a>
 
 <br>
@@ -21,28 +21,23 @@
 <a href="https://t.me/bipolarfedd" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" />
 </a>
-<a href="https://discord.gg/3ZvwHh4q" target="_blank">
+<a href="https://discord.com/invite/9TNzhJhz" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" />
 </a>
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,js,html,css&theme=dark" />
-</p>
-
-**Currently Learning:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
-</p>
+### 📊 System Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=𝗯𝗶𝗽𝗼𝗹𝗮𝗿𝗳𝗲𝗱𝗱&show_icons=true&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=𝗯𝗶𝗽𝗼𝗹𝗮𝗿𝗳𝗲𝗱𝗱&layout=compact&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
 ---
 
-### 📊 System Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&hide_border=true" height="150" alt="languages graph"  />
+### 🛠️ Tech Stack
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,golang,html&theme=dark" />
 </div>
 
 <img align="right" height="120" src="https://media.discordapp.net/attachments/1330525315084062822/1332694510140133407/lylies.gif?ex=67a5593b&is=67a407bb&hm=aa4ce353bc3578918c6ab9064add8e101990f7c5dda86cc7f05986fcf3656520&=" />
@@ -52,6 +47,6 @@
 ---
 
 ### 🐍 Contribution Activity
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/𝗯𝗶𝗽𝗼𝗹𝗮𝗿𝗳𝗲𝗱𝗱/𝗯𝗶𝗽𝗼𝗹𝗮𝗿𝗳𝗲𝗱𝗱/output/snake.svg" alt="Snake animation" width="100%" />
 
 </div>
