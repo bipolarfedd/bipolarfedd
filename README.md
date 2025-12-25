@@ -29,15 +29,9 @@
 
 ### 📊 System Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=𝗯𝗶𝗽𝗼𝗹𝗮𝗿𝗳𝗲𝗱𝗱&show_icons=true&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=𝗯𝗶𝗽𝗼𝗹𝗮𝗿𝗳𝗲𝗱𝗱&layout=compact&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
----
-
-### 🛠️ Tech Stack
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,golang,html&theme=dark" />
+  <!-- Fixed Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bipolarfedd&show_icons=true&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bipolarfedd&layout=compact&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 <img align="right" height="120" src="https://media.discordapp.net/attachments/1330525315084062822/1332694510140133407/lylies.gif?ex=67a5593b&is=67a407bb&hm=aa4ce353bc3578918c6ab9064add8e101990f7c5dda86cc7f05986fcf3656520&=" />
@@ -47,6 +41,5 @@
 ---
 
 ### 🐍 Contribution Activity
-<img src="https://raw.githubusercontent.com/𝗯𝗶𝗽𝗼𝗹𝗮𝗿𝗳𝗲𝗱𝗱/𝗯𝗶𝗽𝗼𝗹𝗮𝗿𝗳𝗲𝗱𝗱/output/snake.svg" alt="Snake animation" width="100%" />
-
-</div>
+<!-- Fixed Snake (See Step 2 below to make this work) -->
+<img src="https://raw.githubusercontent.com/bipolarfedd/bipolarfedd/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
