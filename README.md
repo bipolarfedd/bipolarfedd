@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="main/eda7a0478e1919234a453ac6c5166568.gif" width="50%" />
+<img src="main/eda7a0478e1919234a453ac6c5166568.gif" width="25%" />
 
 # 𝕽𝖊𝖆𝖑 𝕮𝖊𝖑𝖊𝖇𝖗𝖎𝖙𝖞
 ` 𝗯𝗶𝗽𝗼𝗹𝗮𝗿𝗳𝗲𝗱𝗱 `
