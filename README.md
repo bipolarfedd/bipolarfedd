@@ -39,17 +39,4 @@
 
 ---
 
-### 📊 System Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bipolarfedd&show_icons=true&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bipolarfedd&layout=compact&theme=vivid-dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-<br clear="both">
-
----
-
-### 🐍 Contribution Activity
-<img src="https://raw.githubusercontent.com/bipolarfedd/bipolarfedd/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-
 </div>
