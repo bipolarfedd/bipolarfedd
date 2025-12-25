@@ -50,6 +50,6 @@
 ---
 
 ### 🐍 Contribution Activity
-<img src="https://raw.githubusercontent.com/bipolarfedd/bipolarfedd/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/bipolarfedd/bipolarfedd/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 
 </div>
